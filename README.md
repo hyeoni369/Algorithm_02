@@ -1,13 +1,11 @@
 # Algorithm_02
 
-## If 'tensorflow.keras' dosen't work with error 'no moudle named ~', try 'import tensorflow.python.keras'. 
-### This error appears to have occurred during install tensorflow.
-## In Readme, you must attatch
-- What model you used
-- Training and Training loss 
-- Test Accuracy result
-- Images and corresponding probability that are predicted right
-- Images and corresponding probability that are predicted wrong 
+## Check List
+- [ ] [ ] [ ] What model you used
+- [ ] Training and Training loss 
+- [ ] Test Accuracy result
+- [ ] Images and corresponding probability that are predicted right
+- [ ] Images and corresponding probability that are predicted wrong 
 
 ### For Model 1
 #### 1. Model 
