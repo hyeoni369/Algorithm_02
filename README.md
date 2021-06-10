@@ -1,7 +1,22 @@
 # Algorithm_02
 
 ## Check List
-- [ ] [ ] [ ] What model you used
+### Model 1
+- [x] What model you used
+- [x] Training and Training loss 
+- [x] Test Accuracy result
+- [x] Images and corresponding probability that are predicted right
+- [x] Images and corresponding probability that are predicted wrong 
+
+### Model 2
+- [ ] What model you used
+- [ ] Training and Training loss 
+- [ ] Test Accuracy result
+- [ ] Images and corresponding probability that are predicted right
+- [ ] Images and corresponding probability that are predicted wrong 
+
+### Model 3
+- [ ] What model you used
 - [ ] Training and Training loss 
 - [ ] Test Accuracy result
 - [ ] Images and corresponding probability that are predicted right
