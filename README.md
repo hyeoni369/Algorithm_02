@@ -22,7 +22,7 @@
 - [ ] Images and corresponding probability that are predicted right
 - [ ] Images and corresponding probability that are predicted wrong 
 
-### For Model 1
+### Model 1
 #### 1. Model 
 ![model](https://user-images.githubusercontent.com/43214327/121537707-1e989a80-ca3f-11eb-87a9-b23683c98272.png)
 #### 2. Training with Training loss 
